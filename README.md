@@ -1,0 +1,2 @@
+# Entire-screenshots
+all screenshots
